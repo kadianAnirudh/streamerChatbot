@@ -7,13 +7,11 @@ import NewsletterSection from "./components/NewsletterSection";
 import Features from "./components/Features";
 import ContactUsForm from "./components/ContactUsForm";
 import Footer from "./components/Footer";
-import ChatComponent from "./components/ChatComponent";
 
 export default function Home() {
   return (
     <>
       <OpeningSection />
-      <ChatComponent />
       <FeaturedSection />
       <CallToAction />
       <PricingTable />
