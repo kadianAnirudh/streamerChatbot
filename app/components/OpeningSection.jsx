@@ -57,7 +57,7 @@ export default function OpeningSection() {
                 Get started
               </Link>
               <Link
-                href="#"
+                href="https://youtu.be/u5PebM3_Rxo"
                 className="text-sm font-semibold leading-6 text-white"
               >
                 Watch Video <span aria-hidden="true">→</span>
