@@ -8,7 +8,7 @@ import StreamLogo from "../Images/streamLogo.png";
 
 const navigation = [
   { name: "Chat", href: "/chat" },
-  { name: "About", href: "#" },
+  { name: "About", href: "/about" },
   // { name: "", href: "#" },
   // { name: "Company", href: "#" },
 ];

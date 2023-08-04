@@ -12,14 +12,14 @@ export default function Home() {
   return (
     <>
       <OpeningSection />
-      <FeaturedSection />
-      <CallToAction />
-      <PricingTable />
-      <NumberStats />
-      <NewsletterSection />
-      <Features />
-      <ContactUsForm />
-      <Footer />
+      {/* <FeaturedSection /> */}
+      {/* <CallToAction /> */}
+      {/* <PricingTable /> */}
+      {/* <NumberStats /> */}
+      {/* <NewsletterSection /> */}
+      {/* <Features /> */}
+      {/* <ContactUsForm /> */}
+      {/* <Footer /> */}
     </>
   );
 }
