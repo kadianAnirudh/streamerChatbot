@@ -32,7 +32,10 @@ export default function OpeningSection() {
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-100 ring-1 ring-indigo-600 hover:ring-white">
               Interested in a video walkthrough?{" "}
-              <Link href="#" className="font-semibold text-indigo-600">
+              <Link
+                href="https://youtu.be/u5PebM3_Rxo"
+                className="font-semibold text-indigo-600"
+              >
                 <span className="absolute inset-0" aria-hidden="true" />
                 Watch <span aria-hidden="true">&rarr;</span>
               </Link>
